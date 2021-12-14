@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Kyle Adams Portfolio</title>
+        <title>Kyles Portfolio</title>
         <meta name="description" content="If you are reading this you are really impressive" />
        
       </Head>
