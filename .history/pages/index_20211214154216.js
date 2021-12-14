@@ -7,14 +7,14 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Kyles Portfolio</title>
+        <title>"Kyle's Portfolio"</title>
         <meta name="description" content="If you are reading this you are really impressive" />
        
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://kyleadams.com/">Kyles Portfolio Website</a>
+          Welcome to <a href="https://kyleadams.com/">"Kyle's Portfolio Website"</a>
         </h1>
 
         <p className={styles.description}>
