@@ -29,13 +29,13 @@ export default function Home() {
             <p></p>
           </a>
 
-          <a href={`/Tutoring`} className={styles.card}>
+          <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Tutoring</h2>
             <p></p>
           </a>
 
           <a
-            href={`/Resume`}
+            href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
           >
             <h2>Resume</h2>
@@ -43,7 +43,7 @@ export default function Home() {
           </a>
 
           <a
-            href={`/Blog`}
+            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
             <h2>Blog</h2>

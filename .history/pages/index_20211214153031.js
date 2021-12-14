@@ -35,7 +35,7 @@ export default function Home() {
           </a>
 
           <a
-            href={`/Resume`}
+            href={`/Resme`}
             className={styles.card}
           >
             <h2>Resume</h2>
